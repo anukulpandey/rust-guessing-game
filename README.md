@@ -1,4 +1,5 @@
 # Rust Guessing Game
+<img width="211" alt="image" src="https://user-images.githubusercontent.com/62092256/213876352-9482c75a-e70c-41cc-bba7-f7f29579c4f9.png">
 
 ## Features
 - enter any no.
